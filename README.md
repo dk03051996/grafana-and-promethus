@@ -14,3 +14,6 @@ https://aws.amazon.com/blogs/opensource/setting-up-grafana-on-ec2-to-query-metri
 
 if you want to test it using container
 https://grafana.com/docs/grafana-cloud/quickstart/noagent_linuxnode/
+
+
+if you want the complete setup you can refer this
