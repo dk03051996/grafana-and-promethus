@@ -9,3 +9,8 @@ https://linuxopsys.com/topics/install-prometheus-on-ubuntu
 
 If you want to use managed service of grafana and promethus of AWS below is the link to do it
 https://aws.amazon.com/blogs/opensource/setting-up-grafana-on-ec2-to-query-metrics-from-amazon-managed-service-for-prometheus/
+
+
+
+if you want to test it using container
+https://grafana.com/docs/grafana-cloud/quickstart/noagent_linuxnode/
