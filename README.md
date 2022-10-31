@@ -17,3 +17,5 @@ https://grafana.com/docs/grafana-cloud/quickstart/noagent_linuxnode/
 
 
 if you want the complete setup you can refer this
+
+https://devops4solutions.com/monitoring-using-prometheus-and-grafana-on-aws-ec2/
